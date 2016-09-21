@@ -1,0 +1,15 @@
+.navbar{
+	margin-bottom: 0px!important;
+}
+
+a.btn.disabled {
+	opacity: 100!important;
+}
+
+#tab-2 p	{
+	text-align: center;
+}
+
+#tab-2 img	{
+	display: unset;
+}
