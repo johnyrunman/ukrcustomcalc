@@ -199,13 +199,6 @@
 
                 </fieldset>
               </form>
-              <div class="col-sm-12">
-                <p><img src="calc/img/poroh.jpg" alt="" class="img-responsive"></p>
-              </div>
-
-
-
-
 
             </div>
           </div>
@@ -213,8 +206,6 @@
       </div>
     </div>
   </div>
-
-
 
   <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>

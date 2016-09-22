@@ -101,14 +101,8 @@ echo " <legend>Розрахунок платежів</legend>
     <a href='../calc.php' class='btn btn-success btn-block'><i class='fa fa-arrow-left'></i> Повернутися назад</a>  
   </div>
 </div>
-
-
-
-
-
 </fieldset>
 </form>
-
 ";
 ?>
 
